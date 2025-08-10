@@ -2,6 +2,8 @@
 
 ## Task 1. Complete the Knowledge Test
 
+![Test week 3](./images/Week3_knowledgetest.JPG)
+
 ## Task 2. View Your Addresses 
 
 ![Addresses](./images/week3task2-router.PNG)

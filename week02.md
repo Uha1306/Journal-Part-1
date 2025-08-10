@@ -34,9 +34,9 @@ Prompt Used:
 
 AI Response:
 
-_VirtualBox is a program that lets you run other operating systems on your computer without removing or replacing the one you already have. It creates a “virtual” computer inside your real computer, where you can install and use different systems like Linux, Windows, or macOS.
+_VirtualBox is a program that lets you run other operating systems on your computer without removing or replacing the one you already have. It creates a “virtual” computer inside your real computer, where you can install and use different systems like Linux, Windows, or macOS._
 
-OpenWRT is a special kind of Linux made for routers and network devices. It replaces the basic software that comes with a router, giving you more control and more features, like better security, VPNs, and advanced network settings. You can use it to turn a regular router into a powerful, customizable networking tool._
+_OpenWRT is a special kind of Linux made for routers and network devices. It replaces the basic software that comes with a router, giving you more control and more features, like better security, VPNs, and advanced network settings. You can use it to turn a regular router into a powerful, customizable networking tool._
 
 Comparison & Reflection
 

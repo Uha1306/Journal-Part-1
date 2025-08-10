@@ -10,6 +10,10 @@
 
 ![ComputerInfo](./images/week2task2-computerinfo2.PNG)
 
+Physical Memory: 8.465 Gigabytes
+
+Physically installed memory: 8.3 Megabytes
+
 ## Task 3. Deploy Linux Web Server in VirtualBox
 
 Boot Manager and Kernel

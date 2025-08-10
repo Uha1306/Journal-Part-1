@@ -12,6 +12,12 @@
 
 ## Task 3. Deploy Linux Web Server in VirtualBox
 
+![Open WRT](./images/Week2task4-openwrt.PNG)
+
+![Open WRT](./images/Week2task4-management.PNG)
+
+![Open WRT](./images/Week2task4-network.PNG)
+
 ## Task 4. Browse to OpenWRT Websites
 
 

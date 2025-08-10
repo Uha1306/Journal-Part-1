@@ -18,7 +18,7 @@ Physically installed memory: 8.3 Megabytes
 
 Boot Manager and Kernel
 
-After importing the OpenWRT Linux appliance into VirtualBox and starting the VM, I observed the boot process via the VirtualBox console. The boot manager displayed was GRUB 2 (GNU GRUB version 2.06). This is a common open-source bootloader used in many Linux-based systems to load the kernel and pass control to it. Shortly after, the kernel loaded was Linux kernel version 5.10.176. I found these values by closely watching the boot messages in the VirtualBox VM window, specifically during the initial boot phase where GRUB lists its version and where the Linux kernel banner appears.
+After importing the OpenWRT Linux appliance into VirtualBox and starting the VM, I observed the boot process via the VirtualBox console. The boot manager displayed was GRUB 2 (GNU GRUB version 2.06). This is a common open-source bootloader used in many Linux-based systems to load the kernel and pass control to it. Shortly after, the kernel loaded was Linux kernel version 5.10.161. I found these values by closely watching the boot messages in the VirtualBox VM window, specifically during the initial boot phase where GRUB lists its version and where the Linux kernel banner appears.
 
 Description of VirtualBox and OpenWRT
 
@@ -46,6 +46,14 @@ __My description of VirtualBox and OpenWRT focused on technical accuracy and men
 
 
 ![Open WRT](./images/Week2task4-openwrt.PNG)
+
+Hostname: OpenWRT
+
+Model: innotek GmbH VirtualBox
+
+Architecture: Inter(R) Core(TM) i7-6600U CPU @ 2.60 GHz
+
+Kernel Version: 5.10.161
 
 ![Open WRT](./images/Week2task4-management.PNG)
 

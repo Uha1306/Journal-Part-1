@@ -26,7 +26,15 @@ The delays could be caused due to bandwidth, distance factor, firewall and serve
 
 ![Packets captured](./images/week3task4-ping.pcap)
 
+### Commands used are as follows
+
+Packet capturing command: tcpdump -i eth0 -n -w week3task4-ping.pcap 'arp or icmp'
+
+Ping command: ping 192.168.56.2 from the local system
+
 ## Task 5. Academic Integrity Policy
+
+
 
 ## Task 6. Print GitHub Journal Page to PDF
 

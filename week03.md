@@ -4,9 +4,15 @@
 
 ## Task 2. View Your Addresses 
 
+![Addresses](./images/week3task2-router.PNG)
+
 ## Task 3. Ping Your Local Router
 
+![Ping local](./images/week3task3-wifiping.PNG)
+
 ## Task 4. Ping your OpenWRT Linux Server 
+
+![Ping to WRT Server](./images/week3task4-ping.pcap)
 
 ## Task 5. Academic Integrity Policy
 

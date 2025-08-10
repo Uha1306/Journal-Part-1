@@ -40,7 +40,7 @@ _OpenWRT is a special kind of Linux made for routers and network devices. It rep
 
 Comparison & Reflection
 
-My description of VirtualBox and OpenWRT focused on technical accuracy and mentioned specific use cases, supported systems, and advanced features. The AI description, while accurate, uses simpler and more accessible language aimed at beginners, avoiding technical terms like “VLAN” or “package management.” The AI’s explanation would be ideal for someone with no prior exposure to virtualization or networking, whereas mine would better serve students with some technical background. The main difference lies in the depth and level of technical detail.
+__My description of VirtualBox and OpenWRT focused on technical accuracy and mentioned specific use cases, supported systems, and advanced features. The AI description, while accurate, uses simpler and more accessible language aimed at beginners, avoiding technical terms like “VLAN” or “package management.” The AI’s explanation would be ideal for someone with no prior exposure to virtualization or networking, whereas mine would better serve students with some technical background. The main difference lies in the depth and level of technical detail.__
 
 ## Task 4. Browse to OpenWRT Websites
 

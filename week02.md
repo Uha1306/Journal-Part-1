@@ -47,6 +47,11 @@ __My description of VirtualBox and OpenWRT focused on technical accuracy and men
 
 ![Open WRT](./images/Week2task4-openwrt.PNG)
 
+
+
+![Open WRT](./images/Week2task4-management.PNG)
+
+
 Hostname: OpenWRT
 
 Model: innotek GmbH VirtualBox
@@ -54,7 +59,5 @@ Model: innotek GmbH VirtualBox
 Architecture: Inter(R) Core(TM) i7-6600U CPU @ 2.60 GHz
 
 Kernel Version: 5.10.161
-
-![Open WRT](./images/Week2task4-management.PNG)
 
 ![Open WRT](./images/Week2task4-network.PNG)

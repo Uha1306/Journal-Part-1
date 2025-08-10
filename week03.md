@@ -12,6 +12,14 @@
 
 ![Ping local](./images/week3task3-wifiping.PNG)
 
+The local router ip is 10.88.222.198. The above result shows the ping result.
+
+the minimum, maximum and average is 0 ms. 
+
+This is because there is no intermediate traffic. 
+
+The main reason for these values go high is if there is any network traffic or it travels more than one network.
+
 ## Task 4. Ping your OpenWRT Linux Server 
 
 ![Ping to WRT Server](./images/week3task4-ping.pcap)

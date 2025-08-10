@@ -54,6 +54,13 @@ __Academic misconduct:__
 
 ![DNS Resolving](./images/week3task7-dns.PNG)
 
+The website chosen is mcdonalds.com.au
+
+IP address - 202.59.54.177
+
+The command used is __Resolve-DnsName -Name "mcdonalds.com.au"__
+
+
 ## Task 8. Home Internet Connection
 
 ![Speedtest](./images/week3task8-speedtest.PNG)

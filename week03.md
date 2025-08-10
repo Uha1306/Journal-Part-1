@@ -36,13 +36,13 @@ Ping command: ping 192.168.56.2 from the local system
 
 The academic integrity policy pdf is uploaded into the images folder.
 
-_Inappropriate academic conduct (level 1 breach of academic integrity)_
+-_Inappropriate academic conduct (level 1 breach of academic integrity)_
 
 __Academic misconduct:__
-_minor academic misconduct (level 2 breach of academic integrity)_
-_moderate academic misconduct (level 3 breach of academic integrity)_ 
-_substantial academic misconduct (level 4 breach of academic integrity)_
-_serious academic misconduct (level 5 breach of academic integrity)_
+-_minor academic misconduct (level 2 breach of academic integrity)_
+-_moderate academic misconduct (level 3 breach of academic integrity)_ 
+-_substantial academic misconduct (level 4 breach of academic integrity)_
+-_serious academic misconduct (level 5 breach of academic integrity)_
 
 ## Task 6. Print GitHub Journal Page to PDF
 

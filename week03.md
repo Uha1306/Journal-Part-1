@@ -20,9 +20,11 @@ This is because there is no intermediate traffic.
 
 The main reason for these values go high is if there is any network traffic or it travels more than one network.
 
+The delays could be caused due to bandwidth, distance factor, firewall and server load.
+
 ## Task 4. Ping your OpenWRT Linux Server 
 
-![Ping to WRT Server](./images/week3task4-ping.pcap)
+![Packets captured](./images/week3task4-ping.pcap)
 
 ## Task 5. Academic Integrity Policy
 

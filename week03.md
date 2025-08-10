@@ -58,7 +58,7 @@ The website chosen is mcdonalds.com.au
 
 IP address - 202.59.54.177
 
-The command used is __Resolve-DnsName -Name "mcdonalds.com.au"__
+The command used is ___Resolve-DnsName -Name "mcdonalds.com.au"___
 
 
 ## Task 8. Home Internet Connection

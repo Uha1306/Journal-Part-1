@@ -64,3 +64,26 @@ The command used is ___Resolve-DnsName -Name "mcdonalds.com.au"___
 ## Task 8. Home Internet Connection
 
 ![Speedtest](./images/week3task8-speedtest.PNG)
+
+Connection Type: Wireless connection
+
+ISP: Optus
+
+Datarate:  
+
+Speed test results:
+
+download speed: 47.97 Mbps
+
+upload speed: 1.82 Mbps
+
+
+Reasons for speed change:
+
+Outdated networking equipment.
+
+Background downloads or streaming on the network.
+
+Routing issues and inefficient network paths.
+
+Server-side overload.
